@@ -2,10 +2,7 @@
 # coding:utf-8
 import os
 
-
-#############临时通过mid列表查询umid列表###############
-
-
+# 演示如何拼接文本文件中id到sql
 ids = []
 filename='mids.txt'
 
