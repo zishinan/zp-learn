@@ -4,7 +4,7 @@ import os
 
 # 演示如何拼接文本文件中id到sql
 ids = []
-filename='mids.txt'
+filename='target/mids.txt'
 
 if os.path.exists(filename):
     f = open(filename, "rb")
